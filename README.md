@@ -24,6 +24,5 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sharkztech&show_icons=true&locale=en" alt="sharkztech" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sharkztech&" alt="sharkztech" /></p>
 
 
