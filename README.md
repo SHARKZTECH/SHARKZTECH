@@ -22,7 +22,7 @@
 
 <div>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharkztech&show_icons=true&locale=en&layout=compact" alt="sharkztech" /></p>
-<p>&nbsp;<img align="left" style="max-width: 50%;" src="https://github-readme-stats.vercel.app/api?username=sharkztech&show_icons=true&locale=en" alt="sharkztech" /></p>
+<p>&nbsp;<img align="left" style="max-width: 50%;" width="50%" src="https://github-readme-stats.vercel.app/api?username=sharkztech&show_icons=true&locale=en" alt="sharkztech" /></p>
 </div>
 
 
